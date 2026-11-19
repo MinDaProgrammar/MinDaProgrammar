@@ -1,4 +1,4 @@
-# Hi, I'm Minseok Choi
+# Hi, I'm Minseok.
 
 I'm a BSc Data Science & AI (Honours) student at Maastricht University. Alongside my studies I work at Chromin, where I'm building a production scheduling optimiser for heat-treatment furnaces. My projects range from trading algorithms and machine learning written from scratch to simulations and full-stack web apps.
 
