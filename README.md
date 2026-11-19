@@ -11,7 +11,7 @@ I'm a BSc Data Science & AI (Honours) student at Maastricht University. Alongsid
 |---|---|---|
 | [**IMC Prosperity 4**](https://github.com/MinDaProgrammar/imc-prosperity-4) | Algorithmic trading competition, **248th of 19,000+**: options pricing with a fitted volatility smile, market making, backtesting tools | Python, pandas |
 | [**NetWijzer**](https://github.com/MinDaProgrammar/netwijzer-grid-congestion) ([live demo](https://mindaprogrammar.github.io/netwijzer-grid-congestion/app/)) | Grid-congestion planning web app built in 30 hours at the PowerUp Drenthe hackathon (TenneT track), on real grid data | JavaScript, Leaflet, Python |
-| [**Campus community web app**](https://github.com/MinDaProgrammar/campus-community-webapp) | Student community platform built by a team of five in 48 hours at the Supernova Buildathon | Java Servlets, JSP, MySQL |
+| [**Campus community web app**](https://github.com/MinDaProgrammar/campus-community-webapp) | Student community platform that connects student across different faculties built by a team of five in 48 hours at the Supernova Buildathon | Java Servlets, JSP, MySQL |
 
 ## Data science & machine learning
 
